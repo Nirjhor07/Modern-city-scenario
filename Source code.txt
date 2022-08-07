@@ -20,7 +20,7 @@ void drawScene(){
     glLoadIdentity(); //Reset the drawing perspective
     glMatrixMode(GL_MODELVIEW);
 
-    //Sky
+    //Sky view
     glPushMatrix();
       glBegin(GL_POLYGON);
       glColor3f(0.49, 1.0, 1.0);
