@@ -11,7 +11,7 @@ float _move1 = 0.0f; //boat
 float _move2 = 0.0f; //bus
 float _move3 = 0.0f; //bird
 float _move4 = 0.0f; //cloud1
-float _move5 = 0.0f; //cloud2
+float _move5 = 0.0f; //cloud2_
 float _move6 = 0.0f; //car
 
 void drawScene()
