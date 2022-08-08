@@ -1,4 +1,4 @@
-  ////Bus////
+  ////Bus///
     glPushMatrix();
     glTranslatef(_move2, 0.0f, 0.0f);
     glBegin(GL_POLYGON);
