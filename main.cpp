@@ -1190,7 +1190,7 @@ void drawScene()
     glVertex3f(-0.916f,-0.583f,0.0f);
     glEnd();
     glBegin(GL_POLYGON);
-    glColor3f(1.0,1.0,0.4);
+    glColor3f(1.0,1.0,0.5);
     glVertex3f(-0.833f,-0.583f,0.0f);
     glVertex3f(-0.33f,-0.583f,0.0f);
     glVertex3f(-0.416f,-0.5f,0.0f);
