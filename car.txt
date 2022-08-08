@@ -56,7 +56,7 @@
     }
     glEnd();
     glPopMatrix();
-
+//
     glPushMatrix();
     glTranslatef(_move6, 0.0f, 0.0f);
     glTranslatef(-0.80,0.01,0);
