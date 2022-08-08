@@ -1,4 +1,4 @@
- ////BusWheels/////
+ ////BusWheels////
     glPushMatrix();
     glTranslatef(_move2+0.6, -0.2, 0.0);
     glColor3f(0.0,0.0,0.0);
